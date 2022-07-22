@@ -1,0 +1,52 @@
+.projectsdiv{
+    margin-top: 16%;
+    background-color: #F9F2ED;
+    height: 600px;
+}
+
+.projectheading{
+    color:teal;
+    padding-top: 10px;
+    text-align: center;
+    font-size:40px;
+    font-family:cursive;
+}
+h3{
+    color: teal;
+    font-weight: bold;
+    text-align: center;
+}
+
+.projects{
+    background-color: #F9F2ED;
+    margin-top: 5%;
+    padding-bottom: 5%;
+}
+
+.projectdetails{
+    background-color: white;
+    width:550px;
+    height:400px;
+    margin-left: 5%;
+    margin-top: 10px;
+    text-align:center;
+}
+.gifdiv img{
+    height:300px;
+    width:550px;
+}
+
+
+.srcbtn{
+    text-align: center;
+    
+}
+
+.secondrow{
+    margin-top: 5%;
+    
+}
+a{
+    text-decoration: none;
+    color:white
+}

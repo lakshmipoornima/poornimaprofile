@@ -1,0 +1,36 @@
+.navbar-custom{
+    background-color: #66BFBF;
+    color: #E9DAC1;
+   
+    position: sticky;
+    top:0px;
+   
+}
+.navbar-custom-button{
+    background-color: #66BFBF;
+    color: #E9DAC1;
+    border:none;
+    
+}
+
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.menuclass{
+background-color: #E9DAC1;
+}
+
+.dwnldbtn{
+    background-color: #E9DAC1;
+    border-radius: 50%;
+    margin-right: 10px;
+   
+   
+}
+.anchorpdf{
+    color:#377D71;
+    text-decoration: none;
+}
